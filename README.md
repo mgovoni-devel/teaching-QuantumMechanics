@@ -1,9 +1,10 @@
 # teaching-QuantumMechanics
 Teaching Material
 
-Handouts for the Quantum Mechanics class<br />
-B.Sc in Physics - University of Modena and Reggio Emilia (2009-2012)<br />
-This class was taught in Italian
+Handouts for exercizes of the Quantum Mechanics class<br />
+B.Sc in Physics - University of Modena and Reggio Emilia</br>
+This class was taught to ungraduate students in 2009-2012. </br>
+The class was taught in Italian.
 
 ### Lectures 
 - Lecture # 01 : Blackbody 
